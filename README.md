@@ -1,5 +1,5 @@
 
-# Website Miruz 
+#  Miruz Website
 
 This project is a website built using Bootstrap and JavaScript. It incorporates Bootstrap's responsive design components and JavaScript functionalities to create a user-friendly and interactive web experience.
 
